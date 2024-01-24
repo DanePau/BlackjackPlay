@@ -4,7 +4,7 @@ This is a simulation project for the Blackjack game, developed with web technolo
 
 ## 🎮 Demo
 
-You can try out the application [here](https://blackjack-two-lime.vercel.app/).
+You can try out the application [here](https://02-blackjack.vercel.app/).
 
 ## 🚀 Features
 
