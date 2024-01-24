@@ -15,5 +15,5 @@ You can try out the application [here](https://02-blackjack.vercel.app/).
 
 ## 🛠️ Installation
 
-1. Clone this repository: `https://github.com/DanePau/Blackjack.git`
+1. Clone this repository: `https://github.com/DanePau/BlackjackPlay.git`
 2. Open the `index.html` file in your browser.
